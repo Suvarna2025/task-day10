@@ -1,0 +1,13 @@
+body{
+    color:blue;
+    background-color: aliceblue;
+}
+h1{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    font-size:xx-large ;
+    margin: 250px auto;
+    padding: 25px 25px;
+
+}
